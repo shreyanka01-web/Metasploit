@@ -1,9 +1,9 @@
 # Metasploitable 2 Reconnaissance Exercise
 
 ## Student Details
-- Name: Your Name
+- Name:Shreyanka B A
 - Course: Ethical Hacking
-- Date: 
+- Date:2-5-2026
 
 ---
 
